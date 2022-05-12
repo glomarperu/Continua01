@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Eva_Continua01</string>
+    <string name="valtitulo">EVALUACIÓN CONTINUA 01</string>
+    <string name="valejercicio1">EJERCICIO 1</string>
+    <string name="valejercicio2">EJERCICIO 2</string>
+    <string name="valejercicio3">EJERCICIO 3</string>
+    <string name="valejercicio4">EJERCICIO 4</string>
+    <string name="valtituloagua">ESTADO DEL AGUA</string>
+    <string name="valingresetemp">Ingrese la Temperatura (°C)</string>
+    <string name="valcalcular">CALCULAR</string>
+    <string name="valtitulot">TIPOS DE TRIÁNGULOS</string>
+    <string name="vallado1">Ingrese Lado A</string>
+    <string name="vallado2">Ingrese Lado B</string>
+    <string name="vallado3">Ingrese Lado C</string>
+    <string name="valingresenumero">Ingrese número del 1 - 27</string>
+    <string name="ingresa_un_numero">INGRESA UN NUMERO</string>
+    <string name="valejecutar">EJECUTAR</string>
+    <string name="valresultado">RESULTADO :</string>
+    <string name="val_venta_de_computadoras">Venta de Computadoras</string>
+    <string name="valcantidad_de_computadoras">Cantidad de Computadoras</string>
+    <string name="valtotal">TOTAL :</string>
+    <string name="valdescuento">DESCUENTO :</string>
+    <string name="valprecio_por_unidad_es_de_s_4_000_00">PRECIO POR UNIDAD ES DE S/4,000.00</string>
+    <string name="valcalcular_total_a_pagar">CALCULAR TOTAL A PAGAR</string>
+    <string name="valtotal_con_desc">TOTAL CON DESC.:</string>
+    <string name="valresultado2">resultado</string>
+</resources>
